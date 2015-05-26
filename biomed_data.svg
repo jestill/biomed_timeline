@@ -681,7 +681,7 @@ style='opacity:0.6;' >
   <path id='__line_PCORnet__CDM' d='M 7260 385 L 7420 385' stroke='#ade' style='stroke-width:2;' />
   <path id='__line_OMOP__CDM' d='M 6522 415 L 7420 415' stroke='#ade' style='stroke-width:2;' />
   <path id='__line_Mini-Sentinel' d='M 6747 445 L 7420 445' stroke='#ade' style='stroke-width:2;' />
-  <path id='__line_GFF3' d='M 6060 475 L 7420 475' stroke='#0f0' style='stroke-width:2;' />
+  <path id='__line_GFF' d='M 4772 475 L 7420 475' stroke='#0f0' style='stroke-width:2;' />
   <path id='__line_ADaM-XPT__v2.0' d='M 6097 564 L 6097 535 L 7420 535' stroke='#0f0' style='stroke-width:2;' />
   <path id='__line_SDTM-XPT' d='M 5022 565 L 7420 565' stroke='#0f0' style='stroke-width:2;' />
   <path id='__line_SEND-XPT__v1.0' d='M 5622 566 L 5622 595 L 7420 595' stroke='#0f0' style='stroke-width:2;' />
@@ -882,7 +882,17 @@ style='opacity:0.6;' >
     <circle cx='7022' cy='445' r='5' fill='#ade' stroke='none' />
     <circle cx='7160' cy='445' r='5' fill='#ade' stroke='none' />
     <circle cx='7197' cy='445' r='5' fill='#ade' stroke='none' />
-  <circle id='__dot_GFF3' cx='6060' cy='475' r='10' fill='#0f0' stroke='none' />
+  <circle id='__dot_GFF' cx='4772' cy='475' r='10' fill='#0f0' stroke='none' />
+    <circle cx='4785' cy='475' r='5' fill='#0f0' stroke='none' />
+    <circle cx='4785' cy='475' r='5' fill='#0f0' stroke='none' />
+    <circle cx='4910' cy='475' r='5' fill='#0f0' stroke='none' />
+    <circle cx='4947' cy='475' r='5' fill='#0f0' stroke='none' />
+    <circle cx='4972' cy='475' r='5' fill='#0f0' stroke='none' />
+    <circle cx='4985' cy='475' r='5' fill='#0f0' stroke='none' />
+    <circle cx='5047' cy='475' r='5' fill='#0f0' stroke='none' />
+    <circle cx='5085' cy='475' r='5' fill='#0f0' stroke='none' />
+    <circle cx='5135' cy='475' r='5' fill='#0f0' stroke='none' />
+    <circle cx='5210' cy='475' r='5' fill='#0f0' stroke='none' />
     <circle cx='6060' cy='475' r='5' fill='#0f0' stroke='none' />
     <circle cx='6060' cy='475' r='5' fill='#0f0' stroke='none' />
     <circle cx='6085' cy='475' r='5' fill='#0f0' stroke='none' />
@@ -1630,8 +1640,18 @@ style='opacity:0.6;' >
     <text x='7022' y='450' style='text-anchor:middle;'>·</text>
     <text x='7160' y='450' style='text-anchor:middle;'>3.0</text>
     <text x='7197' y='450' style='text-anchor:middle;'>4.0</text>
-  <text x='6070' y='470'  >GFF3</text>
-    <text x='6060' y='480' style='text-anchor:middle;'>·</text>
+  <text x='4782' y='470'  >GFF</text>
+    <text x='4785' y='480' style='text-anchor:middle;'>·</text>
+    <text x='4785' y='480' style='text-anchor:middle;'>·</text>
+    <text x='4910' y='480' style='text-anchor:middle;'>·</text>
+    <text x='4947' y='480' style='text-anchor:middle;'>2</text>
+    <text x='4972' y='480' style='text-anchor:middle;'>·</text>
+    <text x='4985' y='480' style='text-anchor:middle;'>·</text>
+    <text x='5047' y='480' style='text-anchor:middle;'>·</text>
+    <text x='5085' y='480' style='text-anchor:middle;'>·</text>
+    <text x='5135' y='480' style='text-anchor:middle;'>·</text>
+    <text x='5210' y='480' style='text-anchor:middle;'>·</text>
+    <text x='6060' y='480' style='text-anchor:middle;'>3</text>
     <text x='6060' y='480' style='text-anchor:middle;'>·</text>
     <text x='6085' y='480' style='text-anchor:middle;'>·</text>
     <text x='6110' y='480' style='text-anchor:middle;'>·</text>
